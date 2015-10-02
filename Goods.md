@@ -1107,7 +1107,6 @@ https://vimeo.com/131585517
 Geek out on the Behind the scenes
 https://vimeo.com/131665883
 
-
 Pocket DJ
 http://pacemaker.net/
 https://www.youtube.com/watch?v=jrBoJST5XUI
@@ -1118,18 +1117,19 @@ http://beta.json-generator.com
 Chalk Bot
 https://vimeo.com/129666491
 
-// --------------------------------------------------------------------------------------------------------------- 
-share your skills
+// --------------------------------------------------------------------------------------------------------------- TBD
+
+share your skills			
 http://www.skillshare.com/
 
-codedoodl.es is a showcase of curated creative coding sketches.
+codedoodl.es is a showcase of curated creative coding sketches.   
 http://codedoodl.es/
 
-Visual Intro to Machine Learning 
-http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+Visual Intro to Machine Learning    
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/   
 
 The Cuban Netflix
-https://www.youtube.com/watch?v=fTTno8D-b2E
+https://www.youtube.com/watch?v=fTTno8D-b2E    
 
-a circular screen!
+a circular screen!   
 http://aetho.co/
