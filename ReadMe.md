@@ -1,6 +1,29 @@
 #The GOODS
 <sub>Just good things on the internet</sub>
 
+// --------------------------------------------------------------------------------------------------------------- Nov 30 2023   
+Draw fast and get art…maybe for the next creative mornings…   
+https://drawfast.tldraw.com/
+
+and another one https://www.freepik.com/pikaso   
+drawing to apps (kinda)   
+https://draw-to-app.flutterflow.app/result   
+https://screenshottocode.com/   
+   
+Google Volume 2 - The Book (DeRuntz reminds me of the Bill Moggridge piece we made)   
+https://www.kickstarter.com/projects/jbebooks/all-the-words-in-images-google-volume-2   
+   
+Super simple site that is Pinterest without all the clutter. Drag and drop inspiration boards. (Maybe not safe for client work)   
+https://mood.site   
+
+Write shader code that will project on the Vegas Sphere   
+https://whenistheweekend.com/theSphere.html   
+
+Are you into looking at property, scrolling Zillow for the next “fixer-upper” check out   
+https://www.instagram.com/cheapoldhouses   
+https://www.instagram.com/cheappropertyeu   
+https://www.instagram.com/cheaphouseseu   
+   
 // --------------------------------------------------------------------------------------------------------------- May 3 2011   
 Create, Share, Explore Great Visualizations   
 http://visual.ly/q1wq7   
